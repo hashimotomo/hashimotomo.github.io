@@ -1,6 +1,0 @@
----
-published: true
-title: Test
-layout: post
----
-Testing out an update post by email.\n\nLet\'s see how this looks.
